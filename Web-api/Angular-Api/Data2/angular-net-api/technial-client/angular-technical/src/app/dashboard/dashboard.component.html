@@ -1,0 +1,20 @@
+<table datatable [dtOptions]="dtOptions" [dtTrigger]="dtTrigger" class="table row-border hover mt-3">
+<thead>
+  <tr>
+    <th style="text-align: left;">Alojamiento</th>
+    <th style="text-align: left;">CodAlojamiento</th>
+    <th style="text-align: left;">Direccion</th>
+    <th style="text-align: left;">Observaciones</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr *ngFor="let product of products">
+    <td>{{ product.alojamiento }}</td>
+    <td>{{ product.codAlojamiento }}</td>
+    <td>{{ product.direccion }}</td>
+    <td>{{ product.observaciones }}</td>
+    <td><button><mat-icon aria-hidden="false" aria-label="Example home icon" (click)="sendMeToEditPage(product.identifier)">create</mat-icon></button></td>
+  </tr>
+</tbody>
+</table>

@@ -1,0 +1,38 @@
+
+<div style="text-align: center;">
+  <h2>Edit form</h2>
+  <form action="" (ngSubmit)="ngSubmitFormData($event)">
+  <mat-form-field>
+    <label>Alojamiento</label>
+    </mat-form-field>
+    <mat-form-field>
+        <input type="text" id="txtAlojamiento" name="txtAlojamiento"  [value]="product.alojamiento" placeholder="Alojamiento...">
+  </mat-form-field>
+  <mat-form-field>
+    <label for="txtcodAlojamiento">Cod Alojamiento</label>
+  </mat-form-field>
+  <mat-form-field>
+    <input type="text" id="txtcodAlojamiento" name="txtcodAlojamiento" #txtcodAlojamiento [value]="product.codAlojamiento" placeholder="Cod Alojamiento">
+  </mat-form-field>
+  <br>
+
+
+  <mat-form-field>
+    <label for="txtdireccion">Direccion</label>
+  </mat-form-field>
+  <mat-form-field>
+    <input type="text" id="txtdireccion" name="txtdireccion" [value]="product.direccion" placeholder="Direccion...">
+  </mat-form-field>
+
+  <mat-form-field>
+    <label for="txtObservaciones">Observaciones</label>
+  </mat-form-field>
+  <mat-form-field>
+    <input type="text" id="txtObservaciones" name="txtObservaciones" [value]="product.observaciones" placeholder="Observaciones...">
+  </mat-form-field>
+  <br>
+  <div style="text-align: center; padding-top: 20px">
+    <input type="submit" id="submitBtn" value="Submit">
+  </div>
+</form>
+</div>

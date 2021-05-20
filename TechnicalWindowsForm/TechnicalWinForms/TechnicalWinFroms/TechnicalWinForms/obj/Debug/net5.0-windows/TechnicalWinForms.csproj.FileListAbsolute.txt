@@ -1,0 +1,155 @@
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.exe
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.deps.json
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.json
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.dev.json
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csprojAssemblyReference.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form1.resources
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.GenerateResource.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfoInputs.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfo.cs
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CopyComplete
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\SS PGM 6\source\repos\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.genruntimeconfig.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.exe
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.deps.json
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.json
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.dev.json
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csprojAssemblyReference.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form1.resources
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form2.resources
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.GenerateResource.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfoInputs.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfo.cs
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CoreCompileInputs.cache
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CopyComplete
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\SS PGM 6\source\repos\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.genruntimeconfig.cache
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.exe
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.deps.json
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.json
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.dev.json
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csprojAssemblyReference.cache
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form1.resources
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form2.resources
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.GenerateResource.cache
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfoInputs.cache
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfo.cs
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CopyComplete
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\User\Documents\XB\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.genruntimeconfig.cache
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.exe
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.deps.json
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.json
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.dev.json
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csprojAssemblyReference.cache
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form1.resources
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form2.resources
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.GenerateResource.cache
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfoInputs.cache
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfo.cs
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CopyComplete
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\Xhon\Desktop\TechinalWebForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.genruntimeconfig.cache
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.exe
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.deps.json
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.json
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.dev.json
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csprojAssemblyReference.cache
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form1.resources
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form2.resources
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.GenerateResource.cache
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfoInputs.cache
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfo.cs
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CoreCompileInputs.cache
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CopyComplete
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\CRS\Desktop\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.genruntimeconfig.cache
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.exe
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.deps.json
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.json
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.runtimeconfig.dev.json
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csprojAssemblyReference.cache
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form1.resources
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.Form2.resources
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.GenerateResource.cache
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfoInputs.cache
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.AssemblyInfo.cs
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CoreCompileInputs.cache
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.csproj.CopyComplete
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\ref\TechnicalWinForms.dll
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.pdb
+C:\Users\CRS\Desktop\New folder (2)\TechnicalWindowsForm\TechnicalWinForms\TechnicalWinFroms\TechnicalWinForms\obj\Debug\net5.0-windows\TechnicalWinForms.genruntimeconfig.cache
